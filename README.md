@@ -1,3 +1,3 @@
-# desktop
+# Brightday Binaries (only for testing)
 
-This repository contains the trial binaries for the Birthday app
+This repository contains the trial binaries for the Brightday app
