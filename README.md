@@ -1,3 +1,3 @@
 # desktop
 
-Is the auto-update spot for the desktop apps and the web dowload links
+This repository contains the trial binaries for the Birthday app
